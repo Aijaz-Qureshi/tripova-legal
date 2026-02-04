@@ -1,4 +1,4 @@
-### Tripova.ca User Data Deletion Instructions
+# Tripova.ca User Data Deletion Instructions
 
 Dear Tripova.ca User,
 Thank you for using our website, Tripova.ca (the "Website"). We are committed to protecting your privacy and providing you with a seamless user experience. If you would like to delete your personal data from our system, please follow these instructions:
@@ -41,3 +41,4 @@ Thank you for choosing Tripova.ca. We hope that our service continues to meet yo
 Sincerely,
 
 Technical Support Team Tripova.ca support@tripova.ca 
+
