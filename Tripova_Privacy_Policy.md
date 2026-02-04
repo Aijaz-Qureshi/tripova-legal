@@ -1,4 +1,4 @@
-### Tripova.ca Privacy Policy
+# Tripova.ca Privacy Policy
 
 ## 1. Introduction:
 This Privacy Policy sets out the terms under which the operator of the website (the "Company" or "We") collects, processes, and protects the personal information ("Data") you provide when using our website, including but not limited to Tripova.ca (the "Website"). By accessing or using our Website, you agree to this Privacy Policy.
@@ -40,4 +40,5 @@ This Privacy Policy is governed by and construed in accordance with the laws of 
 By using our Website, you acknowledge that you have read, understood, and agree to the terms of this Privacy Policy.
 
 Effective Date: January 29, 2026
+
 
