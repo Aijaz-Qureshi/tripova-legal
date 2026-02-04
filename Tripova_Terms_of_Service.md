@@ -1,4 +1,4 @@
-### Tripova.ca – Terms of Service
+# Tripova.ca – Terms of Service
 
 ## 1. Acceptance of Terms
 By accessing or using the Tripova.ca website, mobile application, or related services (collectively, the “Service”), you agree to be bound by these Terms of Service (“Terms”). If you do not agree, you may not use the Service.
@@ -50,3 +50,4 @@ We may update these Terms from time to time. Continued use of the Service after 
 
 ## 17. Contact Information
 For questions about these Terms, contact us at support@tripova.ca.
+
